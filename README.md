@@ -20,7 +20,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=NARASIMHAMURTHY4616&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=NARASIMHAMURTHY4616&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=NARASIMHAMURTHY4616&icon=0&color=0)]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 thank you 😊 😊 

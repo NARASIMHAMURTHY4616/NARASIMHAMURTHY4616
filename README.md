@@ -33,7 +33,7 @@
 
 <p align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=NARASIMHAMURTHY4616&label=%F0%9F%91%81%EF%B8%8F+PROFILE+VIEWS&color=00D4FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=NARASIMHAMURTHY4616&label=%F0%9F%91%81%EF%B8%8F+PROFILE+VIEWS&color=000000&style=for-the-badge" alt="Profile Views"/>
 
   <img src="https://img.shields.io/github/followers/NARASIMHAMURTHY4616?label=%F0%9F%9A%80+FOLLOWERS&style=for-the-badge&color=FF006E&logo=github" alt="GitHub Followers"/>
 

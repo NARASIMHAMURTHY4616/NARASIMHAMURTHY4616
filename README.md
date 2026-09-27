@@ -1,7 +1,7 @@
 <!--
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  🛡️ NARASIMHAMURTHY4616 — GITHUB PROFILE README                            ║
-║  CYBERSECURITY • DIGITAL FORENSICS • PYTHON • AI • ROBOTICS                 ║
+║        🛡️ NARASIMHAMURTHY4616 — GITHUB PROFILE README                        ║
+║        CYBERSECURITY • DIGITAL FORENSICS • PYTHON • AI •                     ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
 

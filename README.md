@@ -1,418 +1,235 @@
-<!--
-╔══════════════════════════════════════════════════════════════════════════════╗
-║              🛡️ NARASIMHAMURTHY4616 • CYBERSECURITY LAB                  ║
-║       CYBERSECURITY • PYTHON • AI • DFIR • CYBERCREW                      ║
-╚══════════════════════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:00D4FF,75:7B2FF7,100:FF006E&height=250&section=header&text=NARASIMHAMURTHY&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Engineer%20%7C%20Python%20Developer%20%7C%20Security%20Researcher&descSize=17&descAlignY=62&font=JetBrains%20Mono"/>
+# NARASIMHAMURTHY
+### Cybersecurity Engineering • Python • AI • DFIR
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1020,50:111827,100:312e81&height=2&section=header" width="100%">
+
+<br>
 
 <a href="https://github.com/NARASIMHAMURTHY4616">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=2600&pause=700&color=00FF88&center=true&vCenter=true&width=950&lines=%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Engineering+Student;%F0%9F%90%8D+Building+with+Python+%26+Flask;%F0%9F%94%8D+Exploring+DFIR+%26+Offensive+Security;%F0%9F%A4%96+Building+AI-Powered+Security+Tools;%F0%9F%96%A5%EF%B8%8F+Linux+%7C+Networking+%7C+System+Security;%F0%9F%9B%A1%EF%B8%8F+CyberCrew+%7C+Cybersecurity+Community;%F0%9A%80+Learn+%7C+Build+%7C+Break+%7C+Fix" alt="Typing Effect"/>
-</a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=NARASIMHAMURTHY4616&label=PROFILE%20VIEWS&color=00D4FF&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/NARASIMHAMURTHY4616?label=FOLLOWERS&style=for-the-badge&color=FF006E&logo=github"/>
-<img src="https://img.shields.io/badge/3rd%20Year-B.Tech%20Cybersecurity-7B2FF7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Linux-Ubuntu-00FF88?style=for-the-badge&logo=linux&logoColor=white"/>
-
-</div>
-
----
-
-## 🧭 QUICK NAVIGATION
-
-<div align="center">
-
-| 🛡️ Security | 🐍 Development | 🤖 AI | 🛡️ CyberCrew |
-|:---:|:---:|:---:|:---:|
-| [Security Lab](#-the-security-lab) | [Tech Arsenal](#️-tech-arsenal) | [AI & Automation](#-ai--automation) | [CyberCrew](#️-cybercrew) |
-
-| 🚀 Projects | 🧠 Learning | 📊 GitHub | 🌐 Connect |
-|:---:|:---:|:---:|:---:|
-| [Featured Projects](#-featured-projects) | [Currently Learning](#-currently-learning) | [GitHub Stats](#-github-battle-stats) | [Connect](#-connect) |
-
-</div>
-
----
-
-# 🛡️ WHO AM I?
-
-<div align="center">
-
-> **"Learn the system. Understand the weakness. Build the defense."**
-
-🎓 **3rd Year B.Tech — Cyber Security Engineering**  
-🐍 **Python Developer & Security Enthusiast**  
-🐧 **Linux / Ubuntu User**  
-🔍 **Interested in DFIR, Offensive Security & System Security**  
-🛡️ **CyberCrew — cybersecurity learning & community**  
-🚀 **Building practical security projects instead of only studying theory**
-
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### 🛡️ SECURITY
-
-Network Security  
-Digital Forensics  
-Incident Response  
-Threat Detection  
-Malware Analysis  
-Security Automation
-
-</td>
-
-<td align="center" width="33%">
-
-### 🐍 DEVELOPMENT
-
-Python  
-Flask  
-HTML / CSS / JavaScript  
-MongoDB  
-SQLite  
-REST APIs
-
-</td>
-
-<td align="center" width="33%">
-
-### 🤖 EXPLORATION
-
-Artificial Intelligence  
-RAG Systems  
-Security Agents  
-CyberCrew  
-Automation  
-Linux Systems
-
-</td>
-</tr>
-</table>
-
----
-
-# 🎮 EXPLORE MY UNIVERSE
-
-<div align="center">
-
-<a href="#-the-security-lab">
-<img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F-SECURITY%20LAB-00D4FF?style=for-the-badge"/>
-</a>
-&nbsp;
-<a href="#-featured-projects">
-<img src="https://img.shields.io/badge/%F0%9F%9A%80-BUILD%20LAB-FF006E?style=for-the-badge"/>
-</a>
-&nbsp;
-<a href="#-ai--automation">
-<img src="https://img.shields.io/badge/%F0%9F%A4%96-AI%20%26%20AUTOMATION-00FF88?style=for-the-badge"/>
-</a>
-&nbsp;
-<a href="#-cybercrew">
-<img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F-CYBERCREW-FFD700?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1200&color=A5B4FC&center=true&vCenter=true&width=720&lines=Cybersecurity+Engineering+Student;Python+Developer+%7C+Security+Researcher;DFIR+%7C+Threat+Detection+%7C+AI;Learning+systems.+Breaking+assumptions.+Building+defense." alt="Elegant typing animation">
 </a>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="70"/>
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="70"/>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70"/>
+<img src="https://komarev.com/ghpvc/?username=NARASIMHAMURTHY4616&label=VISITORS&style=flat-square&color=6366f1">
+&nbsp;
+<img src="https://img.shields.io/github/followers/NARASIMHAMURTHY4616?label=FOLLOWERS&style=flat-square&color=4f46e5&logo=github">
+&nbsp;
+<img src="https://img.shields.io/badge/B.Tech-3rd%20Year-6366f1?style=flat-square">
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Cybersecurity-111827?style=flat-square">
+
+<br><br>
 
 </div>
 
 ---
 
-# 🛡️ THE SECURITY LAB
-
 <div align="center">
 
-> *"Think like an attacker. Investigate like a defender."*
+## 01 — PROFILE
 
 </div>
 
-<table align="center">
+<table>
 <tr>
-<td align="center" width="33%">
+<td width="55%" valign="top">
 
-### 🔍 DIGITAL FORENSICS
+### A little about me
 
-Digital Forensics  
-Incident Response  
-Evidence Analysis  
-Log Investigation  
-Threat Investigation
+I'm a **3rd Year B.Tech Cyber Security Engineering student** interested in understanding how systems work, where they fail, and how they can be defended.
 
-</td>
+My work sits around:
 
-<td align="center" width="33%">
+- **Digital Forensics & Incident Response**
+- **Offensive Security**
+- **Threat Detection**
+- **Python Security Automation**
+- **AI-assisted Security**
+- **Linux & System Security**
+- **CyberCrew**
 
-### ⚔️ OFFENSIVE SECURITY
-
-Security Testing  
-Network Security  
-Vulnerability Research  
-Threat Simulation  
-Security Automation
+> *Learn the system. Understand the weakness. Build the defense.*
 
 </td>
 
-<td align="center" width="33%">
+<td width="45%" valign="top">
 
-### 🚨 THREAT DETECTION
+### Current identity
 
-IDS / IPS Concepts  
-Malware Behavior  
-Ransomware Detection  
-Anomaly Detection  
-Security Monitoring
+```text
+┌──────────────────────────────┐
+│  CYBERSECURITY ENGINEERING   │
+├──────────────────────────────┤
+│  Python        █████████░ 90%│
+│  Linux         ████████░░ 80%│
+│  Security      ████████░░ 80%│
+│  AI / RAG      ██████░░░░ 60%│
+│  DFIR          ██████░░░░ 60%│
+└──────────────────────────────┘
+```
 
 </td>
 </tr>
 </table>
 
+---
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/FOCUS-DEFENSIVE%20%2B%20OFFENSIVE-00D4FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DFIR-EXPLORING-FF006E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/THREAT%20DETECTION-BUILDING-00FF88?style=for-the-badge"/>
+## 02 — AREAS OF INTEREST
+
+<br>
+
+<img src="https://img.shields.io/badge/DIGITAL%20FORENSICS-18181b?style=for-the-badge&labelColor=111827&color=6366f1">
+<img src="https://img.shields.io/badge/INCIDENT%20RESPONSE-18181b?style=for-the-badge&labelColor=111827&color=6366f1">
+<img src="https://img.shields.io/badge/OFFENSIVE%20SECURITY-18181b?style=for-the-badge&labelColor=111827&color=6366f1">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/THREAT%20DETECTION-18181b?style=for-the-badge&labelColor=111827&color=8b5cf6">
+<img src="https://img.shields.io/badge/SECURITY%20AUTOMATION-18181b?style=for-the-badge&labelColor=111827&color=8b5cf6">
+<img src="https://img.shields.io/badge/AI%20%2B%20SECURITY-18181b?style=for-the-badge&labelColor=111827&color=8b5cf6">
 
 </div>
 
 ---
 
-# 🚀 FEATURED PROJECTS
-
 <div align="center">
 
-> **Real projects. Real experiments. Real learning.**
+## 03 — SELECTED WORK
 
 </div>
 
-<table align="center">
+<table>
 <tr>
-
 <td width="50%" valign="top">
 
-<h3 align="center">🦠 RANSOMWATCH</h3>
-
-<div align="center">
-<img src="https://img.shields.io/badge/AI-POWERED-00D4FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RANSOMWARE-DETECTION-FF006E?style=for-the-badge"/>
-</div>
+### 🦠 RansomWatch
 
 **AI-Based Early Ransomware Behavior Detection & Analysis**
 
-A cybersecurity project focused on detecting suspicious ransomware-like behavior through filesystem and process activity.
+A security project centered around suspicious filesystem and process behavior.
 
-- 🔹 Behavioral monitoring
-- 🔹 Anomaly detection
-- 🔹 Risk scoring
-- 🔹 Incident isolation concepts
-- 🔹 RAG-based security analysis
-- 🔹 AI-generated explanations
+**Focus**
+
+`Behavior Monitoring` · `Anomaly Detection`  
+`Risk Scoring` · `RAG Analysis` · `AI Explanations`
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">🛡️ TRINETRA IDS/IPS</h3>
+### 🛡️ Trinetra IDS/IPS
 
-<div align="center">
-<img src="https://img.shields.io/badge/IDS-IPS-00FF88?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NETWORK-SECURITY-7B2FF7?style=for-the-badge"/>
-</div>
+**Network Intrusion Detection & Prevention**
 
-**Network Intrusion Detection & Prevention System**
+A security-focused system built around detecting and responding to suspicious network activity.
 
-A security-focused project designed around detecting and responding to suspicious network activity.
+**Focus**
 
-- 🔹 IDS / IPS engine
-- 🔹 Network traffic concepts
-- 🔹 Threat detection
-- 🔹 Security analysis
-- 🔹 Python-based development
+`IDS / IPS` · `Network Security`  
+`Threat Detection` · `Python`
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-<h3 align="center">🛡️ CYBERCREW</h3>
+### 🛡️ CyberCrew
 
-<div align="center">
-<img src="https://img.shields.io/badge/CYBERCREW-CYBERSECURITY-FFD700?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCQ-45%2F50-00D4FF?style=for-the-badge"/>
-</div>
+**Cybersecurity Learning & Technical Assessment**
 
-Active in **CyberCrew**, developing cybersecurity knowledge through technical learning, security challenges and practical exploration.
+An important part of my cybersecurity learning journey, covering security fundamentals and technical concepts.
 
-- 🔹 Cybersecurity fundamentals
-- 🔹 Operating systems & filesystems
-- 🔹 Networking concepts
-- 🔹 Threats & malware
-- 🔹 Python / HTML fundamentals
-- 🔹 Cybersecurity assessment & learning
+**Focus**
+
+`Cybersecurity` · `Networking` · `OS`  
+`Threats & Malware` · `Python` · `Filesystems`
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">🎓 STUDENT SYSTEMS</h3>
+### 🎓 Student Systems
 
-<div align="center">
-<img src="https://img.shields.io/badge/FLASK-WEB-FF006E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MONGODB-DATABASE-00FF88?style=for-the-badge"/>
-</div>
+**Practical Web Applications**
 
-Built and experimented with practical web applications for education and student management.
+Web applications developed around student-focused workflows and data.
 
-- 🔹 Flask applications
-- 🔹 MongoDB integration
-- 🔹 Attendance systems
-- 🔹 Marks management
-- 🔹 Student data management
+**Focus**
+
+`Python` · `Flask` · `MongoDB`  
+`Attendance` · `Marks` · `REST APIs`
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# 🛡️ CYBERCREW
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/CYBERCREW-CYBERSECURITY-7B2FF7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCQ-SCORE%2045%2F50-00D4FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-SECURITY%20LEARNING-00FF88?style=for-the-badge"/>
+## 04 — CYBERCREW
+
+<br>
+
+<img src="https://img.shields.io/badge/CYBERCREW-SECURITY%20COMMUNITY-111827?style=for-the-badge&labelColor=111827&color=6366f1">
+<img src="https://img.shields.io/badge/ASSESSMENT-45%2F50-111827?style=for-the-badge&labelColor=111827&color=8b5cf6">
 
 <br><br>
 
-> **Learn cybersecurity. Challenge yourself. Grow with the community.**
+> **Learn → Challenge → Investigate → Build**
 
-</div>
+<br>
 
-CyberCrew represents my cybersecurity learning and technical assessment journey.
-
-<div align="center">
-
-🔐 **Cybersecurity Fundamentals**  
-🌐 **Networking**  
-🐧 **Operating Systems**  
-🦠 **Threats & Malware**  
-🐍 **Python**  
-📁 **Filesystems**
-
-</div>
-
----
-
-# 🤖 AI & AUTOMATION
-
-<div align="center">
-
-> *"AI is not the replacement for understanding. It's a tool to extend it."*
-
-</div>
-
-<table align="center">
+<table>
 <tr>
-
-<td align="center" width="33%">
-
-### 🧠 GENERATIVE AI
-
-Gemini APIs  
-LLM Applications  
-Prompt Engineering  
-AI Chatbots  
-AI-Assisted Development
-
-</td>
-
-<td align="center" width="33%">
-
-### 🔎 RAG
-
-Retrieval-Augmented Generation  
-Security Knowledge Retrieval  
-Context-Aware Analysis  
-AI Explanations
-
-</td>
-
-<td align="center" width="33%">
-
-### ⚙️ AUTOMATION
-
-Python Automation  
-API Automation  
-Security Workflows  
-System Monitoring  
-Developer Workflows
-
-</td>
-
+<td align="center">🔐<br><b>Security</b></td>
+<td align="center">🌐<br><b>Networking</b></td>
+<td align="center">🐧<br><b>Operating Systems</b></td>
+<td align="center">🦠<br><b>Threats</b></td>
+<td align="center">🐍<br><b>Python</b></td>
+<td align="center">📁<br><b>Filesystems</b></td>
 </tr>
 </table>
 
----
+</div>
 
-# 🛠️ TECH ARSENAL
+---
 
 <div align="center">
 
-### 🐍 PROGRAMMING
+## 05 — TECH STACK
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,bash&theme=dark"/>
+<br>
 
-### 🌐 WEB DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=html,css,js,flask&theme=dark"/>
-
-### 🗄️ DATABASES
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark"/>
-
-### 🐧 SYSTEMS & DEVOPS
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,docker&theme=dark"/>
-
-### 🤖 AI / DATA
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark"/>
-
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,bash&theme=dark" alt="Programming">
 <br><br>
-
-<img src="https://img.shields.io/badge/Python-Primary%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-Daily%20Environment-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,flask&theme=dark" alt="Web">
+<br><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" alt="Databases">
+<br><br>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,docker&theme=dark" alt="Systems">
 
 </div>
 
 ---
 
-# 🧠 CURRENTLY LEARNING
+<div align="center">
 
-<table align="center">
+## 06 — CURRENTLY LEARNING
+
+</div>
+
+<table>
 <tr>
-
-<td align="center" width="25%">
+<td width="25%" align="center">
 
 ### 🛡️ CYBER
 
@@ -423,7 +240,7 @@ Network Security
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
 ### 🐍 PYTHON
 
@@ -434,9 +251,9 @@ Backend Development
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-### 🌐 SYSTEMS
+### 🖥️ SYSTEMS
 
 Linux  
 Operating Systems  
@@ -445,167 +262,94 @@ System Security
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
 ### 🤖 AI
 
 LLMs  
 RAG  
-AI Security Tools  
+AI Security  
 Intelligent Agents
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# 🏆 CYBER JOURNEY
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%8E%93-3rd%20Year%20B.Tech-7B2FF7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F-Cyber%20Security-00D4FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/%F0%9F%90%8D-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-</div>
-
-<table align="center">
-<tr>
-
-<td align="center" width="25%">
-<h2>01</h2>
-🎓<br>
-<b>LEARNING</b><br>
-Cybersecurity Fundamentals
-</td>
-
-<td align="center" width="25%">
-<h2>02</h2>
-🔨<br>
-<b>BUILDING</b><br>
-Security Projects
-</td>
-
-<td align="center" width="25%">
-<h2>03</h2>
-🔬<br>
-<b>RESEARCHING</b><br>
-AI × Security × CyberCrew
-</td>
-
-<td align="center" width="25%">
-<h2>04</h2>
-🚀<br>
-<b>GROWING</b><br>
-Open Source & Community
-</td>
-
-</tr>
-</table>
-
----
-
-# 📊 GITHUB BATTLE STATS
-
-<div align="center">
-
-> *Every commit is another step forward.*
-
-<img src="https://github-readme-stats.vercel.app/api?username=NARASIMHAMURTHY4616&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF006E&text_color=FFFFFF&count_private=true&include_all_commits=true&border_radius=12" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NARASIMHAMURTHY4616&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF006E&fire=FFD93D&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=12" width="48%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NARASIMHAMURTHY4616&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=10&border_radius=12" width="42%"/>
+## 07 — BUILD PHILOSOPHY
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NARASIMHAMURTHY4616&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=FF006E&point=FFFFFF&area=true" width="100%"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
-
-</div>
-
----
-
-# 💡 WHAT I LIKE TO BUILD
-
 ```text
-                     ┌──────────────────────────┐
-                     │         PROBLEM           │
-                     └────────────┬─────────────┘
-                                  │
-                                  ▼
-                     ┌──────────────────────────┐
-                     │       UNDERSTAND IT       │
-                     └────────────┬─────────────┘
-                                  │
-                                  ▼
-              ┌──────────────────────────────────────┐
-              │                 BUILD                │
-              │                                      │
-              │  🐍 Python                           │
-              │  🛡️ Cybersecurity                   │
-              │  🤖 AI                               │
-              │  🌐 Web Applications                 │
-              │  🐧 Linux                            │
-              │  🛡️ CyberCrew                       │
-              └──────────────────┬───────────────────┘
-                                 │
-                                 ▼
-                     ┌──────────────────────────┐
-                     │       TEST / BREAK       │
-                     └────────────┬─────────────┘
-                                  │
-                                  ▼
-                     ┌──────────────────────────┐
-                     │      FIX / IMPROVE       │
-                     └────────────┬─────────────┘
-                                  │
-                                  ▼
-                     ┌──────────────────────────┐
-                     │          SHIP 🚀         │
-                     └──────────────────────────┘
+        ┌───────────────┐
+        │    OBSERVE    │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │   UNDERSTAND  │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │     BUILD     │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │  TEST / BREAK │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │  FIX / LEARN  │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │     SHIP      │
+        └───────────────┘
 ```
 
----
-
-# 🌟 COMMUNITY & OPEN SOURCE
-
-<div align="center">
-
-> **Build something useful. Explain it. Share it. Help someone else build it.**
-
-</div>
-
-I enjoy sharing projects, explaining technical concepts to other students,
-and encouraging beginners to explore GitHub, programming and cybersecurity.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/GitHub-Building%20in%20Public-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Community-Student%20Collaboration-00D4FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Learning-Always%20On-00FF88?style=for-the-badge"/>
-
 </div>
 
 ---
 
-# 🧭 WHERE I'M HEADING
+<div align="center">
 
-<table align="center">
+## 08 — GITHUB ACTIVITY
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=NARASIMHAMURTHY4616&show_icons=true&hide_border=true&bg_color=0b1020&title_color=a5b4fc&icon_color=818cf8&text_color=e5e7eb&count_private=true&include_all_commits=true&border_radius=16" width="49%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NARASIMHAMURTHY4616&theme=transparent&hide_border=true&background=0b1020&stroke=312e81&ring=818cf8&fire=a5b4fc&currStreakNum=ffffff&sideNums=e5e7eb&currStreakLabel=a5b4fc&sideLabels=9ca3af&dates=6b7280&border_radius=16" width="49%">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NARASIMHAMURTHY4616&bg_color=0b1020&color=a5b4fc&line=6366f1&point=c4b5fd&area=true&hide_border=true" width="100%">
+
+</div>
+
+---
+
+<div align="center">
+
+## 09 — CONTRIBUTION FLOW
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake">
+
+</div>
+
+---
+
+<div align="center">
+
+## 10 — DIRECTION
+
+<br>
+
+<table>
 <tr>
-
 <td align="center" width="33%">
 
 ### 🔍 DFIR
@@ -618,7 +362,7 @@ Threat Investigation
 
 <td align="center" width="33%">
 
-### ⚔️ OFFENSIVE SECURITY
+### ⚔️ OFFENSIVE
 
 Security Testing  
 Threat Simulation  
@@ -628,69 +372,45 @@ Vulnerability Research
 
 <td align="center" width="33%">
 
-### 🛡️ SECURITY ENGINEERING
+### 🛡️ ENGINEERING
 
 Detection Systems  
 Security Automation  
 AI-Powered Defense
 
 </td>
-
 </tr>
 </table>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/DIRECTION-CYBER%20%2B%20AI-00D4FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MINDSET-LEARN%20%2B%20BUILD-FF006E?style=for-the-badge"/>
-
 </div>
 
 ---
 
-# 🌐 CONNECT
-
 <div align="center">
 
-> **Got an interesting security problem? Let's build and learn together.**
+## LET'S CONNECT
+
+<br>
 
 <a href="https://github.com/NARASIMHAMURTHY4616">
-<img src="https://img.shields.io/badge/GitHub-NARASIMHAMURTHY4616-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+&nbsp;
+<a href="https://www.linkedin.com/in/ballanarasimhamurthy/">
+<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATIONS-00FF88?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/INTERESTED%20IN-CYBER%20%7C%20AI%20%7C%20CYBERCREW-7B2FF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-111827?style=flat-square&color=6366f1">
+<img src="https://img.shields.io/badge/FOCUS-CYBER%20%2B%20AI-111827?style=flat-square&color=8b5cf6">
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+> **"Don't just learn cybersecurity. Build it. Test it. Understand it."**
 
 <br>
 
-**"Don't just learn cybersecurity. Build it. Test it. Break it. Understand it."**
-
-<br><br>
-
-<img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F-SECURITY%20IS%20A%20MINDSET-00D4FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/%F0%9F%90%8D-KEEP%20BUILDING-FF006E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/%F0%9F%9A%80-KEEP%20LEARNING-00FF88?style=for-the-badge"/>
-
-<br><br>
-
-**One project. One experiment. One commit at a time.**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:7B2FF7,100:00D4FF&height=130&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:111827,100:0b1020&height=120&section=footer" width="100%">
 
 </div>

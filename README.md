@@ -64,7 +64,7 @@
   🐍 Python Developer & Security Enthusiast<br>
   🐧 Linux / Ubuntu User<br>
   🔍 Interested in DFIR, Offensive Security & System Security<br>
-  🤖 Exploring the intersection of AI, Cybersecurity & Robotics<br>
+  🛡️ Active in CyberCrew & Cybersecurity<br>
   🚀 Building practical security projects instead of only studying theory
 </p>
 
@@ -111,7 +111,7 @@ REST APIs
 Artificial Intelligence<br>
 RAG Systems<br>
 Security Agents<br>
-Robotics<br>
+CyberCrew<br>
 Automation<br>
 Linux Systems
 </p>
@@ -194,18 +194,18 @@ Linux Systems
 
 <td align="center" width="25%">
 
-<a href="#-robotics-zone">
+<a href="#-cybercrew-zone">
 
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="75" alt="Robotics"/>
+<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="75" alt="CyberCrew"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/%F0%9F%A4%96-ROBOTICS%20ZONE-FFD700?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F-CYBERCREW-FFD700?style=for-the-badge&logoColor=black"/>
 
 </a>
 
 <br>
-<sub><code>Robotics · Automation · Research</code></sub>
+<sub><code>Cybersecurity · Community · Learning</code></sub>
 
 </td>
 
@@ -444,23 +444,25 @@ A security-focused project designed around detecting and responding to suspiciou
 
 <td width="50%" valign="top">
 
-<h3 align="center">🤖 ROBOTICS PROJECTS</h3>
+<h3 align="center">🛡️ CYBERCREW</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/ROBOTICS-RESEARCH-FFD700?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AUTONOMOUS-WIFI-00D4FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CYBERCREW-CYBERSECURITY-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCQ-45%2F50-00D4FF?style=for-the-badge"/>
 </p>
 
 <p>
-Worked with the KIET Robotics Lab on robotics research and experimentation.
+Active in CyberCrew, developing cybersecurity knowledge through technical learning,
+security challenges and practical exploration.
 </p>
 
 <p>
-🔹 Robo-dog project<br>
-🔹 Wi-Fi based navigation<br>
-🔹 Remote control<br>
-🔹 Robotics automation<br>
-🔹 Research collaboration
+🔹 Cybersecurity fundamentals<br>
+🔹 Operating systems & filesystems<br>
+🔹 Networking concepts<br>
+🔹 Threats & malware<br>
+🔹 Python / HTML fundamentals<br>
+🔹 Cybersecurity assessment & learning
 </p>
 
 </td>
@@ -561,41 +563,43 @@ Developer Workflows
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<!-- 🤖 ROBOTICS ZONE -->
+<!-- 🛡️ CYBERCREW -->
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">
-  🤖 ROBOTICS ZONE
+  🛡️ CYBERCREW
 </h2>
 
 <p align="center">
-  <i><code>Where software meets machines.</code></i>
+  <i><code>Learn cybersecurity. Challenge yourself. Grow with the community.</code></i>
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/ROBOTICS-LAB-7B2FF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CYBERCREW-CYBERSECURITY-7B2FF7?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/AUTONOMOUS-SYSTEMS-00D4FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCQ-SCORE%2045%2F50-00D4FF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/RESEARCH-ACTIVE-00FF88?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-SECURITY%20LEARNING-00FF88?style=for-the-badge"/>
 
 </p>
 
 <p align="center">
-My robotics experience includes working on a robo-dog system involving
-<b>Wi-Fi-based navigation and remote control</b>, along with research activities
-through the KIET Robotics Lab.
+My CyberCrew journey focuses on strengthening practical cybersecurity knowledge through
+technical assessments, security concepts and continuous learning.
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="380" alt="Robotics"/>
+  🔐 Cybersecurity Fundamentals &nbsp;•&nbsp;
+  🌐 Networking &nbsp;•&nbsp;
+  🐧 Operating Systems &nbsp;•&nbsp;
+  🦠 Threats & Malware &nbsp;•&nbsp;
+  🐍 Python &nbsp;•&nbsp;
+  📁 Filesystems
 </p>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <!-- 🧑‍💻 TECH ARSENAL -->
 
@@ -767,7 +771,7 @@ Security Projects
 <h3>03</h3>
 🔬<br>
 <b>RESEARCHING</b><br>
-AI × Security × Robotics
+AI × Security × CyberCrew
 </td>
 
 <td align="center" width="25%">
@@ -1012,7 +1016,7 @@ AI-Powered Defense
 
 <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATIONS-00FF88?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/INTERESTED%20IN-CYBER%20%7C%20AI%20%7C%20ROBOTICS-7B2FF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INTERESTED%20IN-CYBER%20%7C%20AI%20%7C%20CYBERCREW-7B2FF7?style=for-the-badge"/>
 
 </p>
 

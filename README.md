@@ -330,21 +330,11 @@ Intelligent Agents
 
 ---
 
-<div align="center">
 
-## 09 — CONTRIBUTION FLOW
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake">
-
-</div>
-
----
 
 <div align="center">
 
-## 10 — DIRECTION
+## 09 — DIRECTION
 
 <br>
 

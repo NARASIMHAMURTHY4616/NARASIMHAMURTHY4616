@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-labelledby="t d">
+<title id="t">NARASIMHAMURTHY - Cyber Security Engineering</title>
+<desc id="d">Monogram and network topology graph with one anomalous node and a highlighted investigation path.</desc>
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}</style>
+<defs>
+<pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#EAF2F8" stroke-opacity=".05"/></pattern>
+<radialGradient id="glow" cx="80%" cy="55%" r="50%"><stop offset="0" stop-color="#65F6E0" stop-opacity=".10"/><stop offset="1" stop-color="#65F6E0" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="420" fill="#080B12"/>
+<rect width="1200" height="420" fill="url(#g)"/>
+<rect width="1200" height="420" fill="url(#glow)"/>
+<rect x="16.5" y="16.5" width="1167" height="387" fill="none" stroke="#1B2433"/>
+<path d="M16 44V16H44M1156 16H1184V44M16 376V404H44M1184 376V404H1156" fill="none" stroke="#65F6E0" stroke-width="1.5"/>
+<text x="48" y="48" font-size="12" letter-spacing="3" fill="#8492A6">NEXUS // CYBER INTELLIGENCE INTERFACE</text>
+<circle cx="1016" cy="44" r="3.5" fill="#65F6E0"/>
+<text x="1030" y="48" font-size="12" letter-spacing="3" fill="#65F6E0">SESSION OPEN</text>
+<path d="M48 66H1152M48 352H1152" stroke="#1B2433"/>
+
+<!-- monogram -->
+<polygon points="150,143 212.4,179 212.4,251 150,287 87.6,251 87.6,179" fill="#0D131D" stroke="#65F6E0" stroke-width="1.5"/>
+<polygon points="150,157 200.2,186 200.2,244 150,273 99.8,244 99.8,186" fill="none" stroke="#2A3A4D"/>
+<circle cx="150" cy="143" r="4" fill="#FFCB74"/>
+<text x="150" y="228" font-size="40" font-weight="700" letter-spacing="2" text-anchor="middle" fill="#EAF2F8">NM</text>
+<text x="150" y="316" font-size="11" letter-spacing="3" text-anchor="middle" fill="#8492A6">ID // 4616</text>
+
+<!-- identity -->
+<text x="268" y="168" font-size="11" letter-spacing="4" fill="#FFCB74">SUBJECT</text>
+<text x="268" y="216" font-size="52" font-weight="700" letter-spacing="2" fill="#EAF2F8">NARASIMHAMURTHY</text>
+<text x="268" y="244" font-size="14" letter-spacing="3" fill="#8492A6">CYBER SECURITY ENGINEERING  //  B.TECH, YEAR III</text>
+<path d="M268 266H560" stroke="#65F6E0" stroke-width="1.5"/>
+<text x="268" y="302" font-size="21" fill="#EAF2F8">Read the evidence. Model the threat.</text>
+<text x="268" y="330" font-size="21" fill="#65F6E0">Build the defense.</text>
+
+<!-- topology -->
+<g stroke="#26344A" stroke-width="1.2" fill="none">
+<path d="M900 110L1010 92L1120 140L1080 250L1020 330L900 310L960 200L900 110"/>
+<path d="M1010 92L960 200L1080 250M1120 140L960 200M1080 250L1130 320L1020 330"/>
+</g>
+<path d="M900 110L960 200L1080 250L1130 320" fill="none" stroke="#65F6E0" stroke-width="2"/>
+<g fill="#111722" stroke="#8492A6" stroke-width="1.5">
+<circle cx="1010" cy="92" r="5"/><circle cx="1120" cy="140" r="5"/><circle cx="900" cy="310" r="5"/><circle cx="1020" cy="330" r="5"/>
+</g>
+<g fill="#111722" stroke="#65F6E0" stroke-width="2">
+<circle cx="900" cy="110" r="5"/><circle cx="960" cy="200" r="5"/><circle cx="1130" cy="320" r="5"/>
+</g>
+<circle cx="1080" cy="250" r="16" fill="none" stroke="#FF5D73" stroke-dasharray="3 3"/>
+<circle cx="1080" cy="250" r="7" fill="#FF5D73"/>
+<text x="1102" y="254" font-size="11" letter-spacing="2" fill="#FF5D73">ANOMALY</text>
+<g font-size="11" fill="#8492A6" letter-spacing="1">
+<text x="888" y="102" text-anchor="end">host</text>
+<text x="886" y="326" text-anchor="end">net</text>
+<text x="1130" y="342" text-anchor="middle">docs</text>
+</g>
+
+<text x="48" y="378" font-size="12" letter-spacing="3" fill="#8492A6">OBSERVE › INVESTIGATE › MODEL › BUILD › TEST › IMPROVE</text>
+<text x="1152" y="378" font-size="12" letter-spacing="3" text-anchor="end" fill="#8492A6">STUDENT // ACTIVELY LEARNING</text>
+</svg>

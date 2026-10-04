@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-label="Case 01: RansomWatch. A behavior signal rises above a threshold.">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}</style>
+<defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#EAF2F8" stroke-opacity=".05"/></pattern></defs>
+<rect width="1200" height="200" fill="#080B12"/><rect width="1200" height="200" fill="url(#g)"/>
+<path d="M0 1H120" stroke="#65F6E0" stroke-width="2"/>
+<text x="40" y="56" font-size="12" letter-spacing="4" fill="#FFCB74">CASE 01</text>
+<text x="40" y="108" font-size="42" font-weight="700" fill="#EAF2F8">RansomWatch</text>
+<text x="40" y="144" font-size="13" letter-spacing="2" fill="#8492A6">HOST BEHAVIOR // EARLY DETECTION</text>
+<path d="M40 168H280" stroke="#1B2433"/>
+<rect x="880" y="30" width="190" height="148" fill="#FF5D73" fill-opacity=".08"/>
+<path d="M640 178H1160" stroke="#26344A"/>
+<path d="M640 80H1160" stroke="#FFCB74" stroke-dasharray="5 4"/>
+<text x="1160" y="72" font-size="11" letter-spacing="2" text-anchor="end" fill="#FFCB74">THRESHOLD</text>
+<polyline points="640,130 680,126 720,134 760,128 800,132 840,125 880,130" fill="none" stroke="#8492A6" stroke-width="1.5"/>
+<polyline points="880,130 900,90 920,150 940,60 960,160 980,40 1000,170 1020,70 1040,150 1060,100 1090,128" fill="none" stroke="#FF5D73" stroke-width="1.8"/>
+<polyline points="1090,128 1120,130 1160,129" fill="none" stroke="#8492A6" stroke-width="1.5"/>
+<text x="975" y="26" font-size="11" letter-spacing="3" text-anchor="middle" fill="#FF5D73">DEVIATION</text>
+<text x="640" y="194" font-size="11" letter-spacing="3" fill="#8492A6">BEHAVIOR / TIME</text>
+</svg>

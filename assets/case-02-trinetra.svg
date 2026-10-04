@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-label="Case 02: Trinetra IDS/IPS. Traffic passes an inspection gate; one flow is blocked.">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}</style>
+<defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#EAF2F8" stroke-opacity=".05"/></pattern></defs>
+<rect width="1200" height="200" fill="#080B12"/><rect width="1200" height="200" fill="url(#g)"/>
+<path d="M0 1H120" stroke="#65F6E0" stroke-width="2"/>
+<text x="40" y="56" font-size="12" letter-spacing="4" fill="#FFCB74">CASE 02</text>
+<text x="40" y="108" font-size="42" font-weight="700" fill="#EAF2F8">Trinetra IDS/IPS</text>
+<text x="40" y="144" font-size="13" letter-spacing="2" fill="#8492A6">NETWORK VISIBILITY // INTRUSION DETECTION</text>
+<path d="M40 168H280" stroke="#1B2433"/>
+<rect x="892" y="34" width="16" height="130" fill="#65F6E0" fill-fill-opacity=".1" fill-opacity=".12" stroke="#65F6E0"/>
+<text x="900" y="26" font-size="11" letter-spacing="3" text-anchor="middle" fill="#65F6E0">INSPECT</text>
+<g stroke="#8492A6" stroke-width="1.5" fill="none"><path d="M680 60H1140"/><path d="M680 100H1140"/></g>
+<path d="M680 140H884" stroke="#FF5D73" stroke-width="1.8"/>
+<path d="M880 134l12 12M892 134l-12 12" stroke="#FF5D73" stroke-width="2"/>
+<g fill="#111722" stroke="#8492A6" stroke-width="1.5"><circle cx="680" cy="60" r="5"/><circle cx="680" cy="100" r="5"/><circle cx="680" cy="140" r="5"/></g>
+<g fill="#111722" stroke="#65F6E0" stroke-width="2"><circle cx="1140" cy="60" r="5"/><circle cx="1140" cy="100" r="5"/></g>
+<text x="1020" y="52" font-size="11" letter-spacing="2" text-anchor="middle" fill="#8492A6">ALLOW</text>
+<text x="790" y="158" font-size="11" letter-spacing="2" text-anchor="middle" fill="#FF5D73">BLOCK</text>
+<text x="680" y="188" font-size="11" letter-spacing="3" fill="#8492A6">TRAFFIC</text>
+</svg>

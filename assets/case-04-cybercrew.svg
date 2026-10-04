@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-label="Case 04: CyberCrew. Six topic tiles and a first-round assessment score of 45 out of 50.">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}</style>
+<defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#EAF2F8" stroke-opacity=".05"/></pattern></defs>
+<rect width="1200" height="200" fill="#080B12"/><rect width="1200" height="200" fill="url(#g)"/>
+<path d="M0 1H120" stroke="#65F6E0" stroke-width="2"/>
+<text x="40" y="56" font-size="12" letter-spacing="4" fill="#FFCB74">CASE 04</text>
+<text x="40" y="108" font-size="42" font-weight="700" fill="#EAF2F8">CyberCrew</text>
+<text x="40" y="144" font-size="13" letter-spacing="2" fill="#8492A6">LEARNING COMMUNITY // TECHNICAL ASSESSMENT</text>
+<path d="M40 168H280" stroke="#1B2433"/>
+<g fill="#0D131D" stroke="#2A3A4D">
+<rect x="640" y="24" width="160" height="44"/><rect x="814" y="24" width="160" height="44"/><rect x="988" y="24" width="160" height="44"/>
+<rect x="640" y="80" width="160" height="44"/><rect x="814" y="80" width="160" height="44"/><rect x="988" y="80" width="160" height="44"/>
+</g>
+<g font-size="12" letter-spacing="2" text-anchor="middle" fill="#C4D0DE">
+<text x="720" y="51">OPERATING SYSTEMS</text><text x="894" y="51">NETWORKING</text><text x="1068" y="51">FILESYSTEMS</text>
+<text x="720" y="107">THREATS</text><text x="894" y="107">MALWARE</text><text x="1068" y="107">PYTHON</text>
+</g>
+<path d="M640 150H1138" stroke="#8492A6" stroke-opacity=".3" stroke-width="14" stroke-dasharray="8 2"/>
+<path d="M640 150H1088" stroke="#65F6E0" stroke-width="14" stroke-dasharray="8 2"/>
+<text x="640" y="188" font-size="11" letter-spacing="3" fill="#8492A6">ROUND 1 ASSESSMENT</text>
+<text x="1138" y="188" font-size="14" font-weight="700" letter-spacing="2" text-anchor="end" fill="#65F6E0">45 / 50</text>
+</svg>

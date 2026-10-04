@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 470" width="1200" height="470" role="img" aria-label="System architecture map grouped by role and marked by how each item is used.">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.ra{fill:#0E2A2D;stroke:#65F6E0}.rk{fill:#111722;stroke:#3A475C}.rs{fill:#1A160C;stroke:#FFCB74;stroke-dasharray:4 3}
+.ta,.tk,.ts{font-size:14px;text-anchor:middle}.ta{fill:#EAF2F8}.tk{fill:#C4D0DE}.ts{fill:#FFCB74}
+.rl{font-size:15px;font-weight:700;letter-spacing:3px;fill:#EAF2F8}.sl{font-size:12px;fill:#8492A6}
+</style>
+<rect width="1200" height="470" fill="#080B12"/>
+<text x="48" y="44" font-size="13" letter-spacing="4" fill="#8492A6">SYSTEM ARCHITECTURE</text>
+<rect x="600" y="38" width="10" height="10" fill="#0E2A2D" stroke="#65F6E0"/><text x="618" y="47" font-size="12" fill="#8492A6">APPLIED IN PROJECTS</text>
+<rect x="780" y="38" width="10" height="10" fill="#111722" stroke="#3A475C"/><text x="798" y="47" font-size="12" fill="#8492A6">IN THE TOOLKIT</text>
+<rect x="925" y="38" width="10" height="10" fill="#1A160C" stroke="#FFCB74" stroke-dasharray="2 2"/><text x="943" y="47" font-size="12" fill="#8492A6">STUDYING / EXPLORING</text>
+<path d="M48 70H1152M48 159H1152M48 237H1152M48 315H1152M48 393H1152" stroke="#1B2433"/>
+
+<text class="rl" x="48" y="118">PROGRAMMING</text><text class="sl" x="48" y="138">tooling, automation</text>
+<rect class="ra" x="250" y="103" width="78" height="34" rx="3"/><text class="ta" x="289" y="125">Python</text>
+<rect class="rk" x="340" y="103" width="56" height="34" rx="3"/><text class="tk" x="368" y="125">C</text>
+<rect class="rk" x="408" y="103" width="56" height="34" rx="3"/><text class="tk" x="436" y="125">C++</text>
+<rect class="rk" x="476" y="103" width="62" height="34" rx="3"/><text class="tk" x="507" y="125">Java</text>
+<rect class="rk" x="550" y="103" width="112" height="34" rx="3"/><text class="tk" x="606" y="125">JavaScript</text>
+<rect class="rk" x="674" y="103" width="62" height="34" rx="3"/><text class="tk" x="705" y="125">Bash</text>
+
+<text class="rl" x="48" y="196">SYSTEMS</text><text class="sl" x="48" y="216">environment, workflow</text>
+<rect class="rk" x="250" y="181" width="70" height="34" rx="3"/><text class="tk" x="285" y="203">Linux</text>
+<rect class="rk" x="332" y="181" width="78" height="34" rx="3"/><text class="tk" x="371" y="203">Ubuntu</text>
+<rect class="rk" x="422" y="181" width="56" height="34" rx="3"/><text class="tk" x="450" y="203">Git</text>
+<rect class="rk" x="490" y="181" width="78" height="34" rx="3"/><text class="tk" x="529" y="203">GitHub</text>
+<rect class="rk" x="580" y="181" width="78" height="34" rx="3"/><text class="tk" x="619" y="203">Docker</text>
+
+<text class="rl" x="48" y="274">SECURITY</text><text class="sl" x="48" y="294">what I investigate</text>
+<rect class="ra" x="250" y="259" width="162" height="34" rx="3"/><text class="ta" x="331" y="281">Threat detection</text>
+<rect class="ra" x="424" y="259" width="162" height="34" rx="3"/><text class="ta" x="505" y="281">Network security</text>
+<rect class="rs" x="598" y="259" width="62" height="34" rx="3"/><text class="ts" x="629" y="281">DFIR</text>
+<rect class="rs" x="672" y="259" width="180" height="34" rx="3"/><text class="ts" x="762" y="281">Offensive security</text>
+<rect class="rs" x="864" y="259" width="188" height="34" rx="3"/><text class="ts" x="958" y="281">Security automation</text>
+
+<text class="rl" x="48" y="352">WEB &amp; DATA</text><text class="sl" x="48" y="372">student applications</text>
+<rect class="ra" x="250" y="337" width="70" height="34" rx="3"/><text class="ta" x="285" y="359">Flask</text>
+<rect class="ra" x="332" y="337" width="87" height="34" rx="3"/><text class="ta" x="375" y="359">MongoDB</text>
+<rect class="rk" x="431" y="337" width="62" height="34" rx="3"/><text class="tk" x="462" y="359">HTML</text>
+<rect class="rk" x="505" y="337" width="56" height="34" rx="3"/><text class="tk" x="533" y="359">CSS</text>
+<rect class="rk" x="573" y="337" width="70" height="34" rx="3"/><text class="tk" x="608" y="359">MySQL</text>
+<rect class="rk" x="655" y="337" width="78" height="34" rx="3"/><text class="tk" x="694" y="359">SQLite</text>
+
+<text class="rl" x="48" y="430">LOCAL AI</text><text class="sl" x="48" y="450">StudyRAG</text>
+<rect class="ra" x="250" y="415" width="78" height="34" rx="3"/><text class="ta" x="289" y="437">Ollama</text>
+<rect class="ra" x="340" y="415" width="56" height="34" rx="3"/><text class="ta" x="368" y="437">RAG</text>
+<rect class="rs" x="408" y="415" width="196" height="34" rx="3"/><text class="ts" x="506" y="437">AI-assisted security</text>
+</svg>

@@ -1,406 +1,149 @@
-<div align="center">
+<!--
+  NEXUS // CYBER INTELLIGENCE INTERFACE
+  Profile repo: NARASIMHAMURTHY4616/NARASIMHAMURTHY
 
-# NARASIMHAMURTHY
-### Cybersecurity Engineering • Python • AI • DFIR
+  REPOSITORY LINKS - none verified. Add only real URLs, then add a link in the matching case below.
+    RansomWatch : (not set)
+    Trinetra    : (not set)
+    StudyRAG    : (not set)
+    CyberCrew   : (not set)
+    Web apps    : (not set)
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1020,50:111827,100:312e81&height=2&section=header" width="100%">
-
-<br>
-
-<a href="https://github.com/NARASIMHAMURTHY4616">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1200&color=A5B4FC&center=true&vCenter=true&width=720&lines=Cybersecurity+Engineering+Student;Python+Developer+%7C+Security+Researcher;DFIR+%7C+Threat+Detection+%7C+AI;Learning+systems.+Breaking+assumptions.+Building+defense." alt="Elegant typing animation">
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=NARASIMHAMURTHY4616&label=VISITORS&style=flat-square&color=6366f1">
-&nbsp;
-<img src="https://img.shields.io/github/followers/NARASIMHAMURTHY4616?label=FOLLOWERS&style=flat-square&color=4f46e5&logo=github">
-&nbsp;
-<img src="https://img.shields.io/badge/B.Tech-3rd%20Year-6366f1?style=flat-square">
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-Cybersecurity-111827?style=flat-square">
-
-<br><br>
-
-</div>
-
----
+  Image paths assume branch "main". If your default branch is "master", replace "/main/" in the image URLs.
+-->
 
 <div align="center">
-
-## 01 — PROFILE
-
+  <img src="https://raw.githubusercontent.com/NARASIMHAMURTHY4616/NARASIMHAMURTHY4616/main/assets/nexus-hero.svg" alt="NARASIMHAMURTHY, third-year Cyber Security Engineering student. Read the evidence. Model the threat. Build the defense." width="100%">
 </div>
+
+<p align="center">
+  <sub>
+    <a href="#01--dossier"><code>01 DOSSIER</code></a> &nbsp;·&nbsp;
+    <a href="#02--case-files"><code>02 CASE FILES</code></a> &nbsp;·&nbsp;
+    <a href="#03--system-architecture"><code>03 ARCHITECTURE</code></a> &nbsp;·&nbsp;
+    <a href="#04--method"><code>04 METHOD</code></a> &nbsp;·&nbsp;
+    <a href="#05--signal"><code>05 SIGNAL</code></a> &nbsp;·&nbsp;
+    <a href="#06--exit-terminal"><code>06 EXIT</code></a>
+  </sub>
+</p>
+
+<img src="https://raw.githubusercontent.com/NARASIMHAMURTHY4616/NARASIMHAMURTHY4616/main/assets/nexus-divider.svg" alt="" width="100%">
+
+## 01 // DOSSIER
 
 <table>
-<tr>
-<td width="55%" valign="top">
+  <tr>
+    <td width="30%" valign="top">
+      <sub><code>SUBJECT</code></sub><br>
+      <b>Narasimhamurthy</b><br><br>
+      <sub><code>LEVEL</code></sub><br>
+      B.Tech, Year III<br>
+      Cyber Security Engineering<br><br>
+      <sub><code>HANDLE</code></sub><br>
+      @NARASIMHAMURTHY4616<br><br>
+      <sub><code>HEADING</code></sub><br>
+      DFIR → security engineering
+    </td>
+    <td width="70%" valign="top">
+      I learn by taking systems apart: watching how software behaves, following the anomaly, then writing Python to make the observation repeatable.<br><br>
+      My work so far sits in four places: detecting suspicious behavior on hosts and networks, building local AI that answers from documents instead of guessing, studying DFIR and offensive security, and building practical student web applications.<br><br>
+      <sub><code>DIRECTION</code></sub><br>
+      DFIR · security engineering · threat detection · offensive security · Python automation · AI-assisted defense
+    </td>
+  </tr>
+</table>
 
-### A little about me
+<img src="https://raw.githubusercontent.com/NARASIMHAMURTHY4616/NARASIMHAMURTHY4616/main/assets/nexus-divider.svg" alt="" width="100%">
 
-I'm a **3rd Year B.Tech Cyber Security Engineering student** interested in understanding how systems work, where they fail, and how they can be defended.
+## 02 // CASE FILES
 
-My work sits around:
+Five investigations, read in order: from a single host, across the network, into knowledge, back to fundamentals, and out to everyday software. All are student projects and experiments, not production systems.
 
-- **Digital Forensics & Incident Response**
-- **Offensive Security**
-- **Threat Detection**
-- **Python Security Automation**
-- **AI-assisted Security**
-- **Linux & System Security**
-- **CyberCrew**
+<img src="https://raw.githubusercontent.com/NARASIMHAMURTHY4616/NARASIMHAMURTHY4616/main/assets/case-01-ransomwatch.svg" alt="Case 01: RansomWatch. Host behavior, early detection. Illustration of a behavior signal crossing a threshold." width="100%">
 
-> *Learn the system. Understand the weakness. Build the defense.*
+**Problem.** Ransomware shows up in behavior before it shows up as a ransom note. RansomWatch explores catching that behavior early.<br>
+**Exploring.** AI-based early ransomware behavior detection and analysis: suspicious behavior monitoring, detection, risk scoring, analysis, and AI-assisted explanations of what was seen.<br>
+**Status.** <code>student project · experimental</code> &nbsp; **Repository.** not linked yet
 
-</td>
+<p align="center"><sub><code>↓ HANDOFF: host evidence leads outward, to the traffic that carried it</code></sub></p>
 
-<td width="45%" valign="top">
+<img src="https://raw.githubusercontent.com/NARASIMHAMURTHY4616/NARASIMHAMURTHY4616/main/assets/case-02-trinetra.svg" alt="Case 02: Trinetra IDS/IPS. Network visibility, intrusion detection. Illustration of traffic passing an inspection gate, with one flow blocked." width="100%">
 
-### Current identity
+**Problem.** A network is only defensible if its activity is visible. Trinetra explores spotting suspicious activity as it crosses the wire, and acting on it.<br>
+**Exploring.** Network intrusion detection and prevention, built as Python-based security tooling.<br>
+**Status.** <code>student project · experimental</code> &nbsp; **Repository.** not linked yet
 
-```text
-┌──────────────────────────────┐
-│  CYBERSECURITY ENGINEERING   │
-├──────────────────────────────┤
-│  Python        █████████░ 90%│
-│  Linux         ████████░░ 80%│
-│  Security      ████████░░ 80%│
-│  AI / RAG      ██████░░░░ 60%│
-│  DFIR          ██████░░░░ 60%│
-└──────────────────────────────┘
+<p align="center"><sub><code>↓ HANDOFF: detection depends on knowledge, so the next case is about learning to retrieve it</code></sub></p>
+
+<img src="https://raw.githubusercontent.com/NARASIMHAMURTHY4616/NARASIMHAMURTHY4616/main/assets/case-03-studyrag.svg" alt="Case 03: StudyRAG. Offline retrieval, grounded answers. Illustration of documents, retrieved passages, a local model and an answer inside a local boundary." width="100%">
+
+**Problem.** Academic documents are searchable but rarely answerable. StudyRAG retrieves relevant passages from them and has a local language model answer from those passages instead of from guesswork.<br>
+**Exploring.** An offline-first local AI study assistant: retrieval-augmented generation over academic documents with local language models.<br>
+**Status.** <code>student project · experimental</code> &nbsp; **Repository.** not linked yet
+
+<p align="center"><sub><code>↓ HANDOFF: tools are only as good as the fundamentals under them</code></sub></p>
+
+<img src="https://raw.githubusercontent.com/NARASIMHAMURTHY4616/NARASIMHAMURTHY4616/main/assets/case-04-cybercrew.svg" alt="Case 04: CyberCrew. Learning community and technical assessment. Topic tiles and a first-round score of 45 out of 50." width="100%">
+
+**Problem.** Security tooling rests on fundamentals. CyberCrew is a cybersecurity learning and technical assessment community covering cybersecurity fundamentals, operating systems, networking, filesystems, threats, malware, and Python.<br>
+**Result.** Scored <b>45/50</b> in the first-round assessment.<br>
+**Repository.** not applicable / not linked
+
+<p align="center"><sub><code>↓ HANDOFF: the same fundamentals, applied to ordinary software</code></sub></p>
+
+#### CASE 05 &nbsp;·&nbsp; STUDENT WEB APPLICATIONS
+
+The web-application side of the story: attendance management and marks management apps built with Python, Flask, and MongoDB. This is the kind of surface that security work eventually has to understand.<br>
+**Status.** <code>student projects</code> &nbsp; **Repository.** not linked yet
+
+<img src="https://raw.githubusercontent.com/NARASIMHAMURTHY4616/NARASIMHAMURTHY4616/main/assets/nexus-divider.svg" alt="" width="100%">
+
+## 03 // SYSTEM ARCHITECTURE
+
+Technologies grouped by role, and marked by how I actually use them. There are no proficiency scores.
+
+<img src="https://raw.githubusercontent.com/NARASIMHAMURTHY4616/NARASIMHAMURTHY4616/main/assets/nexus-architecture.svg" alt="System architecture map. Programming: Python (applied in projects); C, C++, Java, JavaScript, Bash (in the toolkit). Systems: Linux, Ubuntu, Git, GitHub, Docker (in the toolkit). Security: threat detection and network security (applied in projects); DFIR, offensive security, security automation (studying and exploring). Web and data: Flask and MongoDB (applied in projects); HTML, CSS, MySQL, SQLite (in the toolkit). Local AI: Ollama and RAG (applied in projects); AI-assisted security (studying and exploring)." width="100%">
+
+<img src="https://raw.githubusercontent.com/NARASIMHAMURTHY4616/NARASIMHAMURTHY4616/main/assets/nexus-divider.svg" alt="" width="100%">
+
+## 04 // METHOD
+
+<img src="https://raw.githubusercontent.com/NARASIMHAMURTHY4616/NARASIMHAMURTHY4616/main/assets/nexus-method.svg" alt="Engineering loop: Observe signals and logs, Investigate by tracing the anomaly, Model by forming a hypothesis, Build Python tooling, Test by breaking and verifying, Improve by iterating, then return to Observe." width="100%">
+
+<img src="https://raw.githubusercontent.com/NARASIMHAMURTHY4616/NARASIMHAMURTHY4616/main/assets/nexus-divider.svg" alt="" width="100%">
+
+## 05 // SIGNAL
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=NARASIMHAMURTHY4616&show_icons=true&hide_border=true&hide_rank=true&bg_color=080B12&title_color=65F6E0&text_color=EAF2F8&icon_color=FFCB74" alt="GitHub statistics for NARASIMHAMURTHY4616" width="100%">
+    </td>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com?user=NARASIMHAMURTHY4616&hide_border=true&background=080B12&ring=65F6E0&fire=FFCB74&currStreakNum=EAF2F8&sideNums=EAF2F8&currStreakLabel=65F6E0&sideLabels=8492A6&dates=8492A6" alt="GitHub contribution streak for NARASIMHAMURTHY4616" width="100%">
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>Live data from third-party services. If a card is blank, the raw record is always at <a href="https://github.com/NARASIMHAMURTHY4616">github.com/NARASIMHAMURTHY4616</a>.</sub></p>
+
+<img src="https://raw.githubusercontent.com/NARASIMHAMURTHY4616/NARASIMHAMURTHY4616/main/assets/nexus-divider.svg" alt="" width="100%">
+
+## 06 // EXIT TERMINAL
+
+```
+$ session --subject NARASIMHAMURTHY
+
+  status    learning · building · investigating
+  github    github.com/NARASIMHAMURTHY4616
+  linkedin  linkedin.com/in/ballanarasimhamurthy
+
+> end of transmission
 ```
 
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 02 — AREAS OF INTEREST
-
-<br>
-
-<img src="https://img.shields.io/badge/DIGITAL%20FORENSICS-18181b?style=for-the-badge&labelColor=111827&color=6366f1">
-<img src="https://img.shields.io/badge/INCIDENT%20RESPONSE-18181b?style=for-the-badge&labelColor=111827&color=6366f1">
-<img src="https://img.shields.io/badge/OFFENSIVE%20SECURITY-18181b?style=for-the-badge&labelColor=111827&color=6366f1">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/THREAT%20DETECTION-18181b?style=for-the-badge&labelColor=111827&color=8b5cf6">
-<img src="https://img.shields.io/badge/SECURITY%20AUTOMATION-18181b?style=for-the-badge&labelColor=111827&color=8b5cf6">
-<img src="https://img.shields.io/badge/AI%20%2B%20SECURITY-18181b?style=for-the-badge&labelColor=111827&color=8b5cf6">
-
-</div>
-
----
-
-<div align="center">
-
-## 03 — SELECTED WORK
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🦠 RansomWatch
-
-**AI-Based Early Ransomware Behavior Detection & Analysis**
-
-A security project centered around suspicious filesystem and process behavior.
-
-**Focus**
-
-`Behavior Monitoring` · `Anomaly Detection`  
-`Risk Scoring` · `RAG Analysis` · `AI Explanations`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛡️ Trinetra IDS/IPS
-
-**Network Intrusion Detection & Prevention**
-
-A security-focused system built around detecting and responding to suspicious network activity.
-
-**Focus**
-
-`IDS / IPS` · `Network Security`  
-`Threat Detection` · `Python`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ CyberCrew
-
-**Cybersecurity Learning & Technical Assessment**
-
-An important part of my cybersecurity learning journey, covering security fundamentals and technical concepts.
-
-**Focus**
-
-`Cybersecurity` · `Networking` · `OS`  
-`Threats & Malware` · `Python` · `Filesystems`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎓 Student Systems
-
-**Practical Web Applications**
-
-Web applications developed around student-focused workflows and data.
-
-**Focus**
-
-`Python` · `Flask` · `MongoDB`  
-`Attendance` · `Marks` · `REST APIs`
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 04 — CYBERCREW
-
-<br>
-
-<img src="https://img.shields.io/badge/CYBERCREW-SECURITY%20COMMUNITY-111827?style=for-the-badge&labelColor=111827&color=6366f1">
-<img src="https://img.shields.io/badge/ASSESSMENT-45%2F50-111827?style=for-the-badge&labelColor=111827&color=8b5cf6">
-
-<br><br>
-
-> **Learn → Challenge → Investigate → Build**
-
-<br>
-
-<table>
-<tr>
-<td align="center">🔐<br><b>Security</b></td>
-<td align="center">🌐<br><b>Networking</b></td>
-<td align="center">🐧<br><b>Operating Systems</b></td>
-<td align="center">🦠<br><b>Threats</b></td>
-<td align="center">🐍<br><b>Python</b></td>
-<td align="center">📁<br><b>Filesystems</b></td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 05 — TECH STACK
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,bash&theme=dark" alt="Programming">
-<br><br>
-<img src="https://skillicons.dev/icons?i=html,css,flask&theme=dark" alt="Web">
-<br><br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" alt="Databases">
-<br><br>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,docker&theme=dark" alt="Systems">
-
-</div>
-
----
-
-<div align="center">
-
-## 06 — CURRENTLY LEARNING
-
-</div>
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-### 🛡️ CYBER
-
-DFIR  
-Incident Response  
-Malware Analysis  
-Network Security
-
-</td>
-
-<td width="25%" align="center">
-
-### 🐍 PYTHON
-
-OOP  
-Automation  
-Security Tools  
-Backend Development
-
-</td>
-
-<td width="25%" align="center">
-
-### 🖥️ SYSTEMS
-
-Linux  
-Operating Systems  
-Networking  
-System Security
-
-</td>
-
-<td width="25%" align="center">
-
-### 🤖 AI
-
-LLMs  
-RAG  
-AI Security  
-Intelligent Agents
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 07 — BUILD PHILOSOPHY
-
-<br>
-
-```text
-        ┌───────────────┐
-        │    OBSERVE    │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │   UNDERSTAND  │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │     BUILD     │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │  TEST / BREAK │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │  FIX / LEARN  │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │     SHIP      │
-        └───────────────┘
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 08 — GITHUB ACTIVITY
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=NARASIMHAMURTHY4616&show_icons=true&hide_border=true&bg_color=0b1020&title_color=a5b4fc&icon_color=818cf8&text_color=e5e7eb&count_private=true&include_all_commits=true&border_radius=16" width="49%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NARASIMHAMURTHY4616&theme=transparent&hide_border=true&background=0b1020&stroke=312e81&ring=818cf8&fire=a5b4fc&currStreakNum=ffffff&sideNums=e5e7eb&currStreakLabel=a5b4fc&sideLabels=9ca3af&dates=6b7280&border_radius=16" width="49%">
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NARASIMHAMURTHY4616&bg_color=0b1020&color=a5b4fc&line=6366f1&point=c4b5fd&area=true&hide_border=true" width="100%">
-
-</div>
-
----
-
-
-
-<div align="center">
-
-## 09 — DIRECTION
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🔍 DFIR
-
-Digital Forensics  
-Incident Response  
-Threat Investigation
-
-</td>
-
-<td align="center" width="33%">
-
-### ⚔️ OFFENSIVE
-
-Security Testing  
-Threat Simulation  
-Vulnerability Research
-
-</td>
-
-<td align="center" width="33%">
-
-### 🛡️ ENGINEERING
-
-Detection Systems  
-Security Automation  
-AI-Powered Defense
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## LET'S CONNECT
-
-<br>
-
-<a href="https://github.com/NARASIMHAMURTHY4616">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white">
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ballanarasimhamurthy/">
-<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-111827?style=flat-square&color=6366f1">
-<img src="https://img.shields.io/badge/FOCUS-CYBER%20%2B%20AI-111827?style=flat-square&color=8b5cf6">
-
-<br><br>
-
-> **"Don't just learn cybersecurity. Build it. Test it. Understand it."**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:111827,100:0b1020&height=120&section=footer" width="100%">
-
-</div>
+<p align="center">
+  <a href="https://github.com/NARASIMHAMURTHY4616"><code>&nbsp;GITHUB&nbsp;</code></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/ballanarasimhamurthy/"><code>&nbsp;LINKEDIN&nbsp;</code></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/NARASIMHAMURTHY4616/NARASIMHAMURTHY4616/main/assets/nexus-divider.svg" alt="" width="100%">

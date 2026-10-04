@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230" role="img" aria-label="Engineering loop: Observe, Investigate, Model, Build, Test, Improve, then back to Observe.">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}</style>
+<defs><marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#65F6E0"/></marker></defs>
+<rect width="1200" height="230" fill="#080B12"/>
+<text x="45" y="26" font-size="12" letter-spacing="4" fill="#8492A6">ENGINEERING LOOP</text>
+<g fill="#0D131D" stroke="#2A3A4D">
+<rect x="45" y="40" width="160" height="100"/><rect x="235" y="40" width="160" height="100"/><rect x="425" y="40" width="160" height="100"/>
+<rect x="615" y="40" width="160" height="100"/><rect x="805" y="40" width="160" height="100"/><rect x="995" y="40" width="160" height="100"/>
+</g>
+<path d="M45 40H205M235 40H395M425 40H585M615 40H775M805 40H965M995 40H1155" stroke="#65F6E0" stroke-width="2"/>
+<g stroke="#65F6E0" stroke-width="1.5" marker-end="url(#a)">
+<path d="M209 90H231"/><path d="M399 90H421"/><path d="M589 90H611"/><path d="M779 90H801"/><path d="M969 90H991"/>
+</g>
+<g font-size="12" fill="#FFCB74" letter-spacing="2">
+<text x="61" y="66">01</text><text x="251" y="66">02</text><text x="441" y="66">03</text><text x="631" y="66">04</text><text x="821" y="66">05</text><text x="1011" y="66">06</text>
+</g>
+<g font-size="19" font-weight="700" fill="#EAF2F8">
+<text x="61" y="94">OBSERVE</text><text x="251" y="94">INVESTIGATE</text><text x="441" y="94">MODEL</text><text x="631" y="94">BUILD</text><text x="821" y="94">TEST</text><text x="1011" y="94">IMPROVE</text>
+</g>
+<g font-size="12" fill="#8492A6">
+<text x="61" y="120">signals, logs</text><text x="251" y="120">trace the anomaly</text><text x="441" y="120">form a hypothesis</text>
+<text x="631" y="120">Python tooling</text><text x="821" y="120">break, verify</text><text x="1011" y="120">iterate, refine</text>
+</g>
+<path d="M1075 144V196H125V148" fill="none" stroke="#8492A6" stroke-dasharray="5 4" marker-end="url(#a)"/>
+<rect x="555" y="187" width="90" height="18" fill="#080B12"/>
+<text x="600" y="200" font-size="11" letter-spacing="3" text-anchor="middle" fill="#8492A6">REPEAT</text>
+</svg>

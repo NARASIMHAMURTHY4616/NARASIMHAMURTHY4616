@@ -114,16 +114,21 @@ Technologies grouped by role, and marked by how I actually use them. There are n
 
 ## 05 // SIGNAL
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=NARASIMHAMURTHY4616&show_icons=true&hide_border=true&hide_rank=true&bg_color=080B12&title_color=65F6E0&text_color=EAF2F8&icon_color=FFCB74" alt="GitHub statistics for NARASIMHAMURTHY4616" width="100%">
-    </td>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com?user=NARASIMHAMURTHY4616&hide_border=true&background=080B12&ring=65F6E0&fire=FFCB74&currStreakNum=EAF2F8&sideNums=EAF2F8&currStreakLabel=65F6E0&sideLabels=8492A6&dates=8492A6" alt="GitHub contribution streak for NARASIMHAMURTHY4616" width="100%">
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=NARASIMHAMURTHY4616&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&custom_title=⚔%20THE%20WARRIOR%20ARCHIVE&bg_color=0B0F14&title_color=F5C16C&text_color=D7E1EA&icon_color=67E8D4&border_radius=12&line_height=28&cache_seconds=21600"
+    alt="GitHub Statistics"
+    width="49%"
+  >
+
+  <img
+    src="./profile/streak.svg"
+    alt="GitHub Contribution Streak"
+    width="49%"
+  >
+
+</div>
 
 <p align="center"><sub>Live data from third-party services. If a card is blank, the raw record is always at <a href="https://github.com/NARASIMHAMURTHY4616">github.com/NARASIMHAMURTHY4616</a>.</sub></p>
 

@@ -116,17 +116,17 @@ Technologies grouped by role, and marked by how I actually use them. There are n
 
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=NARASIMHAMURTHY4616&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&custom_title=⚔%20THE%20WARRIOR%20ARCHIVE&bg_color=0B0F14&title_color=F5C16C&text_color=D7E1EA&icon_color=67E8D4&border_radius=12&line_height=28&cache_seconds=21600"
-    alt="GitHub Statistics"
-    width="49%"
-  >
 
-  <img
-    src="./profile/streak.svg"
-    alt="GitHub Contribution Streak"
-    width="49%"
-  >
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=NARASIMHAMURTHY4616&show_icons=true&hide_border=true&hide_rank=true&bg_color=120D09&title_color=C9A45C&text_color=F0E4C8&icon_color=E3C887" alt="GitHub statistics" width="100%">
+</td>
+<td width="50%" align="center">
+<img src="https://streak-stats.demolab.com?user=NARASIMHAMURTHY4616&hide_border=true&background=120D09&ring=C9A45C&fire=8C3030&currStreakNum=F0E4C8&sideNums=F0E4C8&currStreakLabel=C9A45C&sideLabels=B39A79&dates=B39A79" alt="GitHub contribution streak" width="100%">
+</td>
+</tr>
+</table>
 
 </div>
 

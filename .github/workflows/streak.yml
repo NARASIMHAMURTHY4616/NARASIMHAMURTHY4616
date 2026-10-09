@@ -28,6 +28,7 @@ jobs:
           card_height: 195
           disable_animations: false
           path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 🛡️ Commit updated streak
         run: |
